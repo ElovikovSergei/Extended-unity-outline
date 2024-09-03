@@ -1,4 +1,4 @@
-# UIOutline for Unity
+# UIOutline for unity
 
 `UIOutline` is a custom UI effect for Unity that adds an outline around UI elements.  
 This effect is achieved by displacing the vertices of the UI object in multiple directions, creating a smooth and uniform outline.
